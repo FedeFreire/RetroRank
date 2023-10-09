@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# production build
+/build
+
+# debug logs
+npm-debug.log
+
+# cache
+.cache/
